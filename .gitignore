@@ -1,0 +1,5 @@
+src/_site/
+src/_cache/
+src/site
+src/site.o
+src/site.hi
