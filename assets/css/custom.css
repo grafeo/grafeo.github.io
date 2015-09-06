@@ -1,0 +1,11 @@
+.wrapper .download a{
+	color:#e0e0e0;
+	font-size: 26px;
+	line-height: 1.5em;
+}
+.wrapper.style2 .icon{
+	color:inherit;
+}
+header p{
+	margin-top:1.5em;
+}
